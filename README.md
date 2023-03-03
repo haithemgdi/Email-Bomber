@@ -5,7 +5,7 @@ Herramienta para spamear correos electronicos creada con Python y SMTP، se nece
 
 
 
-![88](https://user-images.githubusercontent.com/107787017/222791890-a590bd74-70dd-450c-9870-2424e900c98e.PNG)
+![88](https://media.geeksforgeeks.org/wp-content/uploads/20210610103855/11.PNG)
 
 
 
@@ -60,16 +60,16 @@ Como evitar que llegue a spam
 
 
 
-https://t.me/jokerplstaeen
+https://t.me/donreacher
 
 
 
 
-https://www.facebook.com/JOGeeR.plstaeeen/
+https://www.facebook.com/Haithem.dehilis.gov/
 
 
 
 
-https://www.instagram.com/joker.plstaeen/?fbclid=IwAR3eTDyyBA46prrwKrckE094KUuxcec5rgfDEZy_0-X8iXJ2rkSIFQyNVH4
+https://www.instagram.com/haithemdehilis
 
 
