@@ -1,5 +1,6 @@
 # Email-Bomber
-Herramienta para spamear correos electronicos creada con Python y SMTP، se necesita un correo electronico de Outlook para poder usar la herramienta، no me hago Responsable del mal uso que se le pueda dar.
+Tool to spam emails created with Python and SMTP, an Outlook email is needed to be able to use the tool, I am not responsible for any misuse that may be given to it.
+#Haithem_dehilis
 
 
 
