@@ -18,7 +18,7 @@ ________________________________________________________________________________
 Instalacion
 Linux
 
-$ git clone https://github.com/Jokergazaak/Email-Bomber
+$ git clone https://github.com/haithemgdi/Email-Bomber/
 
 $ cd Email-Bomber
 
